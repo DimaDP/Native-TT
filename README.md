@@ -4,8 +4,8 @@
 - react-navigation
 - fetch
 - es6
-- -Linters: 
-     - ESLint,
+- Linters: 
+      ESLint,
 ### Install
 
 npm install
